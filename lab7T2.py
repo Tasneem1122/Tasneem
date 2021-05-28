@@ -33,6 +33,8 @@ print("S2=", desc[1], "S3=", desc[2])
 print("S=", desc)
 print("Mutation")
 for i in range(6):
+   
+   //wants change in this code
   for j in range(2):
     if(desc[i][j]==0):
        desc[i][j]=1
